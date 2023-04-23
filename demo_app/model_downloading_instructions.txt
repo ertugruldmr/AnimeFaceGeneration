@@ -1,4 +1,4 @@
 We can't push the study.ipynb because  size of the model exceeded the github file limit. 
 You can download the model from this link (study.ipynb):
-	-> [Colab Source Code For code reading] 
-	-> [File Link for download] 
+	-> [Colab Source Code For code reading] https://colab.research.google.com/drive/1m07bSVchcD4p4rBUM_1_OQgG6E91S3Pj
+	-> [File Link for download] https://huggingface.co/spaces/ErtugrulDemir/AnimeFaceGeneration/resolve/main/GANModel_Weights.zip
